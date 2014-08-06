@@ -1,7 +1,7 @@
 ---
 galaxy_info:
-  author: Niels Lemmens
-  description: Nodejs via package managers
+  author: "Niels Lemmens"
+  description: "Nodejs via package managers"
   license: MIT
   min_ansible_version: 1.2
   - name: Ubuntu
